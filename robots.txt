@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://nvargasf.github.io/sitemap.xml
